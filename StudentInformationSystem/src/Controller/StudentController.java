@@ -7,7 +7,7 @@
 package Controller;
 
 import Input.InputHelper;
-import DLL.StudentList;
+import List.StudentList;
 import Model.Student;
 
 
